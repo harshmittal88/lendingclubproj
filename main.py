@@ -1,1 +1,3 @@
-This is main file.
+This is main file
+
+Check new feature - feature1
